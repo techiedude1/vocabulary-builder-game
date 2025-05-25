@@ -1,0 +1,6 @@
+{
+  "name": "Vocabulary Builder Game",
+  "description": "A fun and interactive game for 7th graders to learn new vocabulary by choosing the correct sentence for a given word. Uses Gemini API for content generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
